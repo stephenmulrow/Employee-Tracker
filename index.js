@@ -91,7 +91,7 @@ const db = mysql.createConnection(
     {
       host: 'localhost',
       user: 'root',
-      password: 'Panda2011!',
+      password: 'Wonderwall44!',
       database: 'company_db'
     },
   );
