@@ -63,12 +63,7 @@ const addEmp = [
       choices: roleAry,
       name: 'empRole',
      },
-    //  {
-    //   type: 'list',
-    //   message: "What is the employees manager?",
-    //   choices: [],
-    //   name: 'empManager',
-    //  },
+  
 ]; 
 
 const updateEmpRole = [
